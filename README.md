@@ -1,2 +1,2 @@
-# bierp-dockerfile
-Dockerfile for bierp docker images @dockerhub.
+# odoo-dockerfile
+Working DockerFile for Odoo versions 10,11,12. From OCA/OCB repository.
